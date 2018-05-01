@@ -1,0 +1,6 @@
+---
+
+- hosts: localhost
+  remote_user: root
+  roles:
+    - hw_vm_tools
