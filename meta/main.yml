@@ -25,6 +25,6 @@ galaxy_info:
         - 7
   galaxy_tags:
     - hardware
-    - virtual machine
+    - virtualization
     - kvm
     - rhv
